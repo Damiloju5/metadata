@@ -1,0 +1,21 @@
+footer{
+    background-color: #0044AA;
+    color: white;
+    padding: 100px 0 20px;
+    position: relative;
+    z-index: -1;
+}
+
+footer ul{
+    padding: 0;
+    list-style-type: none;
+}
+
+footer ul li{
+    margin-bottom: 20px;
+}
+.flexdirection{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
